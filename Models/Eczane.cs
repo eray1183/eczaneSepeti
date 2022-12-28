@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace eczanesepeti2.Models
 {
     public class Eczane
@@ -16,3 +17,4 @@ namespace eczanesepeti2.Models
         public Ilce Ilce { get; set; }
     }
 }
+//***
